@@ -30,6 +30,6 @@
 <p>11.Data Fetching</p>
 <p>12.Liabery Management</p>
 <p>13.Error Handelling</p>
-<p>12.Github & Vercel utilisation</p>
+<p>14.Github & Vercel utilisation</p>
 
 <h2>- Developed by Dibyendu | CoderX Community | Send Message to WhatsApp</h2>
